@@ -1,16 +1,17 @@
-# Java Practice
+# C++ Practice
 
-This repository contains my Java practice programs as part of my
-1st year Computer Science Engineering learning journey.
+This repository contains my C++ practice programs as part of my 1st year Computer Science Engineering learning journey.
 
 ## Topics Covered
-- Basics of Java
-- Arrays
-- Strings
+- Basics of C++
+- Input and Output
+- Conditional Statements
 - Loops
+- Functions
+- Arrays
 
 ## Purpose
-To build strong programming fundamentals and improve problem-solving skills.
+To build strong programming fundamentals and improve problem-solving skills using C++.
 
 ## Author
 Sampreethi
